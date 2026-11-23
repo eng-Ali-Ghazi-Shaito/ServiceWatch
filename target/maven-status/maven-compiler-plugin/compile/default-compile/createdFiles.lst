@@ -1,0 +1,14 @@
+com\mycompany\servicewatch\repository\LogRepository.class
+com\mycompany\servicewatch\database\DatabaseReadTest.class
+com\mycompany\servicewatch\repository\HealthCheckRepository.class
+com\mycompany\servicewatch\model\Severity.class
+com\mycompany\servicewatch\protocol\ProtocolJson.class
+com\mycompany\servicewatch\ServiceWatch.class
+com\mycompany\servicewatch\model\MoniterApplication.class
+com\mycompany\servicewatch\protocol\ProtocolMessage.class
+com\mycompany\servicewatch\model\HealthOutcome.class
+com\mycompany\servicewatch\model\HealthCheck.class
+com\mycompany\servicewatch\repository\ApplicationRepository.class
+com\mycompany\servicewatch\database\DataBaseConnection.class
+com\mycompany\servicewatch\protocol\MessageType.class
+com\mycompany\servicewatch\model\LogRecord.class
